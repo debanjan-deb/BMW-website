@@ -3,7 +3,7 @@ body{
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background-color:  #008080;
+	background: linear-gradient(-70deg, rgb(95, 192, 209) 40%, rgba(124, 106, 202, 0.22) 65%);
 }
 
 #aboutus h2{
